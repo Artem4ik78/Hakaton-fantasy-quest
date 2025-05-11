@@ -1,0 +1,11 @@
+.h1{background-color:darkgreen ;}
+.h1-1{text-align: center;}
+.img{width:750px;height:465px}
+.a{text-decoration:none;color:white;border:black solid 3px;display:block
+; text-align:center;background-color:green;}
+.a:hover{transition:2s;background-color:#B2FFA9}
+.section3{margin-top:200px}
+.img1{width:400px;display:block;justify-content:center}
+.img2{width:620px}
+.section2{margin-top:600px}
+body{overflow-y:hidden}
